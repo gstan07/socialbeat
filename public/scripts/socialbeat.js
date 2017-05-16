@@ -22,9 +22,26 @@ app = {
 			var cell = $('<div class="cell" data-row="'+current_row+'" data-column="'+current_column+'"/>');
 			if(current_column == 1){
 				cell.css({
-					"clear":"both"
+					"clear":"both",
+					"margin-left":0
 				});
 			}
+			if(current_row == 1){
+				cell.css({
+					"margin-top":0
+				});
+			}
+			if(current_row == rows){
+				cell.css({
+					"margin-bottom":0
+				});
+			}
+			if(current_column == columns){
+				cell.css({
+					"margin-right":0
+				});
+			}
+			$("#board").width(columns*50+columns*2*4-2*4);
 			cell.appendTo($("#board"));
 		}
 	},
