@@ -1,0 +1,21 @@
+@cell_width:50px;
+@cell_height:50px;
+@cell_color:#673AB7;
+@grid_module:4px;
+
+@keyframes fadeinout {
+  0%{ opacity: 0; }
+  100% { opacity: 1; }
+}
+body{
+	.cell{
+		width:@cell_width;
+		height:@cell_height;
+		margin:@grid_module;
+		background-color: @cell_color;
+		float:left;
+		&.clicked{
+			animation: fadeinout 0.4s;
+		}
+	}
+}

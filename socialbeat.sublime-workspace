@@ -1,0 +1,971 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"anima",
+				"animate_number_on_start"
+			],
+			[
+				"obj",
+				"obj_to_add"
+			],
+			[
+				"init",
+				"initial_value"
+			],
+			[
+				"fire",
+				"firebaseInit"
+			],
+			[
+				"show",
+				"show_member"
+			],
+			[
+				"strip",
+				"stripslashes"
+			],
+			[
+				"ipb",
+				"ipbwi"
+			],
+			[
+				"mem",
+				"member_id"
+			],
+			[
+				"glo",
+				"GLOBALS"
+			],
+			[
+				"member",
+				"member"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"ret",
+				"ret_member"
+			],
+			[
+				"pos",
+				"post_comments"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"comm",
+				"comment_ID"
+			],
+			[
+				"cle",
+				"clearWpFragmentCache"
+			],
+			[
+				"comme",
+				"comment_ID"
+			],
+			[
+				"user",
+				"user_email"
+			],
+			[
+				"cache",
+				"cachepath"
+			],
+			[
+				"blue",
+				"fcs_blue"
+			],
+			[
+				"blu",
+				"fcs_blue"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"repl",
+				"replies_container"
+			],
+			[
+				"re",
+				"replies_text"
+			],
+			[
+				"replies",
+				"replies_counter"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"comment_au",
+				"comment_author_email"
+			],
+			[
+				"gl",
+				"GLOBALS"
+			],
+			[
+				"logged",
+				"loggeduser"
+			],
+			[
+				"chec",
+				"checkloggeduser"
+			],
+			[
+				"data-ipb",
+				"data-ipb-member-id"
+			],
+			[
+				"pr",
+				"profile_url"
+			],
+			[
+				"logg",
+				"logged_member"
+			],
+			[
+				"fcs",
+				"fcs_red"
+			],
+			[
+				"wind",
+				"window"
+			],
+			[
+				"foru",
+				"forum_user_id"
+			],
+			[
+				"fcs_t",
+				"fcs_tn_classes"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"ava",
+				"avatar_url"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"cur",
+				"current_element"
+			],
+			[
+				"ga",
+				"gallery_page"
+			],
+			[
+				"pi",
+				"picture_href"
+			],
+			[
+				"sha",
+				"share_url"
+			],
+			[
+				"share",
+				"share_picture"
+			],
+			[
+				"gal",
+				"gallery_config"
+			],
+			[
+				"ne",
+				"nextgame_widget"
+			],
+			[
+				"nex",
+				"nextgame_year"
+			],
+			[
+				"data",
+				"data_source"
+			],
+			[
+				"video",
+				"video_id"
+			],
+			[
+				"you",
+				"youTubeOptions"
+			],
+			[
+				"yo",
+				"youTubeOptions"
+			],
+			[
+				"vi",
+				"video_id"
+			],
+			[
+				"item",
+				"item_gutter"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"vide",
+				"videoList"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"latest",
+				"latest_posts_cache"
+			],
+			[
+				"hom",
+				"homepage_posts_cache"
+			],
+			[
+				"fcs_w",
+				"fcs_shirt_widget_display"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"strt",
+				"strtoupper"
+			],
+			[
+				"name",
+				"name_color"
+			],
+			[
+				"ttf",
+				"ttf_box"
+			],
+			[
+				"fon",
+				"font_size"
+			],
+			[
+				"y",
+				"y_pos"
+			],
+			[
+				"img",
+				"img_width"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"fcs_shirt",
+				"fcs_shirt_config"
+			],
+			[
+				"fcs_s",
+				"fcs_shirt_config"
+			],
+			[
+				"embe",
+				"embed_url"
+			],
+			[
+				"YOUTU",
+				"youtube_id"
+			],
+			[
+				"yout",
+				"youtube_url"
+			],
+			[
+				"la",
+				"latesposts_container"
+			],
+			[
+				"lat",
+				"latesposts_container"
+			],
+			[
+				"last",
+				"last_post"
+			],
+			[
+				"ip",
+				"ipbwi"
+			],
+			[
+				"aja",
+				"ajax_object"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"messa",
+				"messages_link"
+			],
+			[
+				"new",
+				"new_pms"
+			],
+			[
+				"pro",
+				"profile_link"
+			],
+			[
+				"logou",
+				"logout_link"
+			],
+			[
+				"logo",
+				"logout_link"
+			],
+			[
+				"av",
+				"avatar_location"
+			],
+			[
+				"up",
+				"uploads_folder"
+			],
+			[
+				"sho",
+				"showNotification"
+			],
+			[
+				"lo",
+				"login_screen"
+			],
+			[
+				"i",
+				"ipb_auth"
+			],
+			[
+				"h",
+				"hideLoginScreen"
+			],
+			[
+				"photo",
+				"photo_details"
+			],
+			[
+				"page",
+				"page_title"
+			],
+			[
+				"fb_a",
+				"fb_app_id"
+			],
+			[
+				"team",
+				"team_config"
+			],
+			[
+				"membe",
+				"members_query"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"templ",
+				"templateData"
+			],
+			[
+				"ob",
+				"objectId"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"tea",
+				"team_admin"
+			],
+			[
+				"app",
+				"application_id"
+			],
+			[
+				"u",
+				"uploadToParse"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"get",
+				"getTeamList"
+			],
+			[
+				"admi",
+				"adminMenu"
+			],
+			[
+				"st",
+				"steaua_row"
+			],
+			[
+				"ranking",
+				"ranking_page"
+			],
+			[
+				"ph",
+				"photos"
+			],
+			[
+				"phot",
+				"photos_array"
+			],
+			[
+				"galler",
+				"gallery_days"
+			],
+			[
+				"gall",
+				"gallery_days"
+			],
+			[
+				"days",
+				"days_limit"
+			],
+			[
+				"cove",
+				"cover_counter"
+			],
+			[
+				"pre",
+				"prev_cover"
+			],
+			[
+				"wid",
+				"widget_nav_prev"
+			],
+			[
+				"date",
+				"date_create"
+			],
+			[
+				"al",
+				"albums_on_page"
+			],
+			[
+				"albu",
+				"albums_on_page"
+			],
+			[
+				"getA",
+				"getAlbumSlideShow"
+			],
+			[
+				"album",
+				"album_id"
+			],
+			[
+				"off",
+				"official_photographer_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/LESS-build/LESS.sublime-build",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gestan/Dropbox (Personal)/pwrk/md/public/media/md.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/md/public/media/reset.css",
+		"/Users/gestan/Dropbox (Personal)/pwrk/md/public/media/md.less",
+		"/Users/gestan/Dropbox (Personal)/pwrk/md/public/index.html",
+		"/Users/gestan/Dropbox (Personal)/bde/ideas.txt",
+		"/Users/gestan/Dropbox (Personal)/pwrk/md/package.json",
+		"/Users/gestan/Dropbox (Personal)/pwrk/md/2newrelic.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/md/index.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/md/public/media/md.css",
+		"/Users/gestan/Dropbox (Personal)/pwrk/md/index.html",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/plugins/fcs.ipb.integration/css/ipb.auth.css",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/themes/fcs/rtl.css",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/plugins/fcs.video/fcsvideo.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/themes/fcs/header.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/themes/fcs/index.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/themes/fcs/fcs.comments.template.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/themes/fcs/fcs-comments.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/plugins/fcs.style/css/fcs_main_style.less",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/plugins/fcs.style/css/fcs_main_style.css",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/plugins/fcs.galleries/galleries.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-includes/script-loader.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/themes/fcs/functions.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/plugins/fcs.ipb.integration/lib/ipbwi/lib/hooks.php.dist",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-config.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/plugins/fcs.galleries/js/fcs_galleries.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/plugins/fcs.video/js/fcs_video.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/plugins/autoptimize/classes/autoptimizeToolbar.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/index.bak",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/index",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/plugins/fcs.galleries/js/imagesloaded.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/plugins/fcs.ipb.integration/js/jquery.validate.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/themes/fcs/single.php",
+		"/var/folders/9p/m44_x7ld23bb7nrkqvgp81l00000gn/T/sublime-sftp-browse-1491774848/mapped/var/www/vhosts/fcsteaua.ro/httpdocs/.htaccess",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/plugins/fcs.style/js/fcs_main_script.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/plugins/fcs.ipb.integration/fcs.ipb.integration.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-includes/functions.php",
+		"/Users/gestan/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/fcs.remote",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/sftp-config.json",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-admin/sftp-config.json",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/plugins/fcs.ipb.integration/js/ipb.auth.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/themes/fcs/fcs-comments.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/plugins/fcs.nextgame/nextgame.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/plugins/fcs.style/css/fcs_main_style.css",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/plugins/fcs.style/css/fcs_main_style.less",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/themes/fcs/fcs.comments.template.php",
+		"/var/folders/9p/m44_x7ld23bb7nrkqvgp81l00000gn/T/sublime-sftp-browse-1491510565/fcs/var/www/vhosts/fcsteaua.ro/httpdocs/.htaccess",
+		"/var/folders/9p/m44_x7ld23bb7nrkqvgp81l00000gn/T/sublime-sftp-browse-1491510340/fcs/var/www/vhosts/fcsteaua.ro/httpdocs/index",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/themes/fcs/header.php",
+		"/Users/gestan/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/fcs",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/sftp-config.json",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/sftp-config.json",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/plugins/fcs.ipb.integration/fcs.ipb.integration.php",
+		"/var/folders/9p/m44_x7ld23bb7nrkqvgp81l00000gn/T/sublime-sftp-browse-1491510206/fcs/var/www/vhosts/fcsteaua.ro/httpdocs/index",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/index",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/sftp-config-alt.json",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/plugins/fcs.ipb.integration/lib/ipbwi/lib/sso.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/plugins/fcs.ipb.integration/lib/ipbwi/testing/sso.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/plugins/fcs.ipb.integration/lib/ipbwi/lib/core.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/plugins/fcs.ipb.integration/lib/ipbwi/testing/core.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/.htaccess",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/.htpasswd",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/plugins/fcs.video/fcsvideo.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/themes/fcs/index.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/themes/index.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/plugins/fcs.ipb.integration/lib/ipbwi/lib/extended.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcs/wp-content/themes/fcs/footer.php",
+		"/Users/gestan/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/fcs5",
+		"/Users/gestan/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/fcs4",
+		"/Users/gestan/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/fcs3",
+		"/var/folders/9p/m44_x7ld23bb7nrkqvgp81l00000gn/T/sublime-sftp-browse-1420285426/fcs/var/www/vhosts/fcsteaua.ro/httpdocs/forum/admin/applications_addon/other/wpuserintegration/extensions/memberSync.php",
+		"/var/folders/9p/m44_x7ld23bb7nrkqvgp81l00000gn/T/sublime-sftp-browse-1420281059/fcs/var/www/vhosts/fcsteaua.ro/httpdocs/forum/admin/applications_addon/other/wpuserintegration/extensions/memberSync.php",
+		"/Users/gestan/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/fcsforum",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.ipb.integration/js/ipb.auth.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/sftp-config.json",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/themes/fcs/fcs-comments.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.ipb.integration/fcs.ipb.integration.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/themes/fcs/single.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/themes/fcs/page.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/themes/fcs/fcs.comments.template.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/themes/fcs/index.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.style/css/fcs_main_style.less",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.style/css/fcs_main_style.css",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/themes/fcs/footer.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.style/js/fcs_main_script.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.style/fcs_style.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/themes/fcs/content.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.galleries/galleries.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/themes/fcs/header.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/themes/fcs/functions.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/accs.psswd",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.team/team.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.video/fcsvideo.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.team/js/jquery.masonry.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.galleries/js/jquery.masonry.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-includes/script-loader.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.shirt/fcs_shirt.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.ranking/ranking.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.nextgame/nextgame.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.galleries/css/fcs_galleries.less",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.galleries/css/fcs_galleries.css",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.share/fcs_share.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.share/js/fcs.share.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.nextgame/js/nextgame.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.nextgame/js/common.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.galleries/js/fcs_galleries.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.video/js/fcs_video.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.video/lib/php-youtube-api/lib/vendor/madcoda/php-youtube-api/lib/Madcoda/Youtube.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.video/css/fcs_video.less",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.video/css/fcs_video.css",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.ipb.integration/js/jquery.validate.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/themes/twentythirteen/footer.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/themes/twentythirteen/comments.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-config.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.ipb.integration/css/ipb.auth.less",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.ipb.integration/css/ipb.auth.css",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.shirt/js/fcs.shirt.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.shirt/css/fcs.shirt.less",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.shirt/css/fcs.shirt.css",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/themes/twentythirteen/index.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/themes/twentythirteen/header.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.ipb.integration/lib/ipbwi/lib/cache.inc.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.ipb.integration/lib/ipbwi/ipbwi.inc.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/wp-super-cache/wp-cache-phase2.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/wp-super-cache/wp-cache-base.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/wp-super-cache/wp-cache.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/wp-super-cache/wp-cache-phase1.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.ipb.integration/lib/ipbwi/lib/ips_wrapper.inc.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.shirt/img/template.png"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote",
+			"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-includes",
+			"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content",
+			"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-includes",
+			"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content",
+			"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote/wp-content/themes/fcs",
+			"/Users/gestan/Dropbox (Personal)/pwrk/fcs.remote",
+			"",
+			"jQuery",
+			"/Users/gestan/Dropbox (Personal)/pwrk/fcswp",
+			"",
+			"\\\"",
+			"",
+			"<open files>",
+			"",
+			"/Users/gestan/IMS/prototypes/newsusi/pages",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"countto",
+			"moment.js",
+			"cache",
+			"init",
+			"<",
+			".details",
+			"details",
+			"loggedu",
+			"set_cu",
+			"logout",
+			"ret_me",
+			"inner",
+			"ipbwi",
+			"logout",
+			"print_r",
+			"die",
+			"logout",
+			"logout(",
+			"logou",
+			"checklo",
+			"echo",
+			"forum_user_",
+			"pointe",
+			"embed.min",
+			"'jquery'",
+			"jq",
+			"enqueue",
+			"'jquery'",
+			"/js/j",
+			"\"jquer",
+			"jquery",
+			"jqu",
+			"enqueue_script(",
+			"-core",
+			"jq",
+			"jquery/jquery.js",
+			"jque",
+			"jq",
+			"ver=1.12",
+			"/js/jquery.js",
+			"/js/jquery",
+			"jquery.js",
+			"jquery.js?ver=1.12.4",
+			"jq",
+			"home",
+			"line",
+			"phone",
+			"purge",
+			"cache",
+			"inner",
+			".site",
+			"url",
+			"submitted",
+			"team_ur",
+			"dott",
+			"comment",
+			"meta",
+			"console.log",
+			"body-in",
+			"ccc",
+			"body-inne",
+			"commen",
+			"widget",
+			"checklo",
+			"init",
+			"videon",
+			"checklog",
+			"id",
+			"logout",
+			"globals",
+			"globa",
+			"checklo",
+			"wp",
+			"autenti",
+			"cookie",
+			"ret_member",
+			"returnto",
+			"this",
+			"logout",
+			"logged",
+			"checklog",
+			"ips",
+			"login",
+			"check",
+			"checklo",
+			"check",
+			"is_user",
+			"wrong",
+			"info",
+			"handlelo",
+			"login",
+			"auth_u",
+			"showlo",
+			"onpassc",
+			"checklo",
+			"ua.",
+			"_grad",
+			"fcs_blue",
+			"img",
+			"userb",
+			"ava",
+			"ssss",
+			"comme",
+			"_suppor",
+			"home",
+			"menu",
+			"masonr",
+			"frag",
+			"fragm",
+			"store",
+			"phpfli",
+			"fragm",
+			"pagetit",
+			"title",
+			"cache",
+			"enqu",
+			"enqueue",
+			"enq",
+			"blueim",
+			"fcs_bl",
+			"avatar",
+			"reset",
+			"global",
+			"flickr",
+			"ipbw",
+			"appen",
+			"file_put",
+			"fwrite"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$gallery_config",
+			"",
+			"jQuery",
+			"\\\"",
+			"\",\"",
+			"locale=sloboz",
+			"remote",
+			"",
+			"placeholder=\"Email address\"",
+			"placeholder=\"AdobeID (email address)\"",
+			"placeholder=\"Retype Password\" name=\"retype_password\"",
+			"Enterprise ID",
+			"class=\"footer\"",
+			"member yet",
+			"<link rel=\"stylesheet/less\" type=\"text/css\" href=\"../resources/web_v2/css/mockutils.less\"/>",
+			"<head><link rel=\"stylesheet\" href=\"../resources/web_v2/css/mockutils.less\"/>",
+			"<div class=\"row social\" data-feature=\"social\">",
+			".grid_",
+			",",
+			"@myblue",
+			"ame\": \"$1 $2 ",
+			"ame\": \"$1 $2\""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fcs.style.le",
+				"wp-content/plugins/fcs.style/css/fcs_main_style.less"
+			],
+			[
+				"script",
+				"wp-includes/script-loader.php"
+			],
+			[
+				"functions.php",
+				"wp-content/themes/fcs/functions.php"
+			],
+			[
+				"fcs.ipb",
+				"wp-content/plugins/fcs.ipb.integration/js/ipb.auth.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 362.0,
+	"status_bar_visible": true
+}
