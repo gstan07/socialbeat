@@ -1,17 +1,23 @@
 app = {
+	config:{
+		"board":{
+			"rows":3,
+			"columns":3
+		}
+	},
 	init:function(){
-		
-		console.log("socialbeat init");
-		app.createBoard(5,5);
-		
+		app.createBoard(app.config.board.rows,app.config.board.columns);
+		app.setSessionContext();
+		app.firebaseInit();
+		app.bindStuff();
+	},
+	setSessionContext:function(){
 		app["me"] = app.generateUid();
 		if(window.location.hash){
 			app["session"] = window.location.hash.replace("#","");
 		}else{
 			app["session"] = app.generateUid();	
 		}
-		app.firebaseInit();
-		app.bindStuff();
 		window.location.hash = app.session;
 	},
 	createBoard:function(rows,columns){
@@ -58,6 +64,7 @@ app = {
 		var synth = new Tone.Synth().toMaster()
 		//play a middle 'C' for the duration of an 8th note
 		synth.triggerAttackRelease('f'+packet.row, '12n')
+
 	},
 	bindStuff:function(){
 
@@ -70,7 +77,8 @@ app = {
 				column:$(this).data("column")
 			}
 			app.broadcast(packet);
-			app.playSound(packet);
+		  	app.playSound(packet);
+			
 
 		});
 		$(".cell").on("webkitAnimationEnd",function(){
